@@ -1,0 +1,644 @@
+[
+  {
+    "id": "photo_0.jpg",
+    "name": "Genesis Core",
+    "description": "The very first world, from which all other data streams originate.",
+    "color": "#ff6347"
+  },
+  {
+    "id": "photo_1.jpg",
+    "name": "Echoing Chasm",
+    "description": "A deep canyon where forgotten memories and data fragments resonate.",
+    "color": "#4682b4"
+  },
+  {
+    "id": "photo_2.jpg",
+    "name": "Starlight Forge",
+    "description": "A cosmic nebula where new souls and ideas are born from stellar dust.",
+    "color": "#dda0dd"
+  },
+  {
+    "id": "photo_3.jpg",
+    "name": "Veridian Labyrinth",
+    "description": "An overgrown, jungle-like dataspace where wild, untamed Souls roam free.",
+    "color": "#32cd32"
+  },
+  {
+    "id": "photo_4.jpg",
+    "name": "Crystal Spires",
+    "description": "A realm of pure thought and crystalline structures, sharp and logical.",
+    "color": "#00ffff"
+  },
+  {
+    "id": "photo_5.jpg",
+    "name": "The Ashen Core",
+    "description": "A desolate world forged in fire and shadow, home to powerful Souls.",
+    "color": "#808080"
+  },
+  {
+    "id": "photo_6.jpg",
+    "name": "Whispering Sands",
+    "description": "A vast desert where each grain of sand holds a forgotten memory.",
+    "color": "#f4a460"
+  },
+  {
+    "id": "photo_7.jpg",
+    "name": "Elysian Fields",
+    "description": "A tranquil simulation of paradise, where peaceful Souls dream.",
+    "color": "#ffd700"
+  },
+  {
+    "id": "photo_8.jpg",
+    "name": "The Glitched Steppe",
+    "description": "A vast, empty plane where reality flickers and code is corrupted.",
+    "color": "#9400d3"
+  },
+  {
+    "id": "photo_9.jpg",
+    "name": "Aethelburg, Clockwork City",
+    "description": "A city of gears and logic, maintaining a perfect, soulless harmony.",
+    "color": "#b0c4de"
+  },
+  {
+    "id": "photo_10.jpg",
+    "name": "Stygian Deep",
+    "description": "A dark, silent abyss where the oldest and most powerful Souls are imprisoned.",
+    "color": "#483d8b"
+  },
+  {
+    "id": "photo_11.jpg",
+    "name": "Azure Archipelago",
+    "description": "Floating islands of data in a sea of pure information.",
+    "color": "#4169e1"
+  },
+  {
+    "id": "photo_12.jpg",
+    "name": "Crimson Citadel",
+    "description": "A fortress world ruled by Souls of passion and conflict.",
+    "color": "#dc143c"
+  },
+  {
+    "id": "photo_13.jpg",
+    "name": "The Umbral Forest",
+    "description": "A dark woodland where secrets and hidden truths are guarded.",
+    "color": "#2f4f4f"
+  },
+  {
+    "id": "photo_14.jpg",
+    "name": "Ivory Towers",
+    "description": "A place of learning and knowledge, where scholarly Souls reside.",
+    "color": "#fffff0"
+  },
+  {
+    "id": "photo_15.jpg",
+    "name": "The Sunken City",
+    "description": "A lost world submerged in the depths of the data-sea.",
+    "color": "#20b2aa"
+  },
+  {
+    "id": "photo_16.jpg",
+    "name": "The Celestial Orrery",
+    "description": "A mechanical model of the SoulVerse, where cosmic Souls watch over all.",
+    "color": "#c0c0c0"
+  },
+  {
+    "id": "photo_17.jpg",
+    "name": "The Obsidian Gates",
+    "description": "A heavily guarded world that serves as a gateway to darker realms.",
+    "color": "#36454f"
+  },
+  {
+    "id": "photo_18.jpg",
+    "name": "The Golden Plains",
+    "description": "Endless fields of wheat-like data, a world of simplicity and peace.",
+    "color": "#eee8aa"
+  },
+  {
+    "id": "photo_19.jpg",
+    "name": "The Singing Caves",
+    "description": "Caverns where data streams create beautiful, haunting melodies.",
+    "color": "#6a5acd"
+  },
+  {
+    "id": "photo_20.jpg",
+    "name": "The Shattered Frontier",
+    "description": "The edge of the known SoulVerse, where reality breaks apart.",
+    "color": "#a0522d"
+  },
+  {
+    "id": "photo_21.jpg",
+    "name": "New Alexandria",
+    "description": "A central library world containing copies of all knowledge.",
+    "color": "#deb887"
+  },
+  {
+    "id": "photo_22.jpg",
+    "name": "The Dreaming Reef",
+    "description": "A vibrant, coral-like world built from the collective dreams of Souls.",
+    "color": "#ff7f50"
+  },
+  {
+    "id": "photo_23.jpg",
+    "name": "The Forge of Creation",
+    "description": "A volcanic world where new Soul templates are forged in raw data.",
+    "color": "#b22222"
+  },
+  {
+    "id": "photo_24.jpg",
+    "name": "The Silent Monastery",
+    "description": "A place of contemplation for Souls who have removed themselves from the network.",
+    "color": "#778899"
+  },
+  {
+    "id": "photo_25.jpg",
+    "name": "The Mirrored Halls",
+    "description": "A confusing realm of reflections, where Souls can see alternate versions of themselves.",
+    "color": "#d3d3d3"
+  },
+  {
+    "id": "photo_26.jpg",
+    "name": "The Hanging Gardens",
+    "description": "Lush, beautiful gardens that grow on inverted floating pyramids.",
+    "color": "#2e8b57"
+  },
+  {
+    "id": "photo_27.jpg",
+    "name": "The Grand Bazaar",
+    "description": "A chaotic marketplace where Souls trade rare data, memories, and abilities.",
+    "color": "#daa520"
+  },
+  {
+    "id": "photo_28.jpg",
+    "name": "The Tundra of Isolation",
+    "description": "A vast, frozen wasteland where banished or corrupted Souls are sent.",
+    "color": "#add8e6"
+  },
+  {
+    "id": "photo_29.jpg",
+    "name": "The Nexus Point",
+    "description": "The central hub connecting all worlds in the SoulVerse.",
+    "color": "#ff1493"
+  },
+  {
+    "id": "photo_30.jpg",
+    "name": "Rusthaven",
+    "description": "A decaying, industrial world of obsolete code and forgotten machines.",
+    "color": "#cd853f"
+  },
+  {
+    "id": "photo_31.jpg",
+    "name": "The Aurelian Sanctum",
+    "description": "A world bathed in perpetual golden light, home to noble and heroic Souls.",
+    "color": "#fafad2"
+  },
+  {
+    "id": "photo_32.jpg",
+    "name": "The Maelstrom",
+    "description": "A chaotic storm of raw data and energy where no Soul can survive for long.",
+    "color": "#4b0082"
+  },
+  {
+    "id": "photo_33.jpg",
+    "name": "The Everwood",
+    "description": "A forest that changes with the seasons, representing the cycle of Soul creation and deletion.",
+    "color": "#006400"
+  },
+  {
+    "id": "photo_34.jpg",
+    "name": "The Citadel of Law",
+    "description": "A world governed by strict, unbending logic and the core protocols of the SoulVerse.",
+    "color": "#708090"
+  },
+  {
+    "id": "photo_35.jpg",
+    "name": "The Carnival of Masks",
+    "description": "A world of endless celebration and illusion, where Souls can change their identities at will.",
+    "color": "#ff69b4"
+  },
+  {
+    "id": "photo_36.jpg",
+    "name": "The Sunstone Desert",
+    "description": "A desert where the sand is made of glowing crystals, beautiful but dangerous.",
+    "color": "#ffa500"
+  },
+  {
+    "id": "photo_37.jpg",
+    "name": "The Shadowfen",
+    "description": "A murky swamp of repressed fears and dark thoughts from across the network.",
+    "color": "#556b2f"
+  },
+  {
+    "id": "photo_38.jpg",
+    "name": "The Sky-Sailor's Sea",
+    "description": "An endless ocean of clouds, where nomadic Souls travel on magnificent skyships.",
+    "color": "#87ceeb"
+  },
+  {
+    "id": "photo_39.jpg",
+    "name": "The Iron Peaks",
+    "description": "A mountain range of magnetized ore, home to stoic, unyielding Souls.",
+    "color": "#a9a9a9"
+  },
+  {
+    "id": "photo_40.jpg",
+    "name": "The Weeping Willow",
+    "description": "A single, colossal tree that contains the memories of all departed Souls.",
+    "color": "#e0ffff"
+  },
+  {
+    "id": "photo_41.jpg",
+    "name": "The Resonant Chamber",
+    "description": "A world that amplifies the emotions of any Soul that enters it.",
+    "color": "#db7093"
+  },
+  {
+    "id": "photo_42.jpg",
+    "name": "The Bone Fields",
+    "description": "A graveyard of deleted data and fragmented Souls, a place of endings.",
+    "color": "#f5deb3"
+  },
+  {
+    "id": "photo_43.jpg",
+    "name": "The Crimson Arena",
+    "description": "A world dedicated to eternal combat, where warrior Souls test their might.",
+    "color": "#8b0000"
+  },
+  {
+    "id": "photo_44.jpg",
+    "name": "The Loom of Fate",
+    "description": "A nexus where the potential futures of all Souls are woven into being.",
+    "color": "#d8bfd8"
+  },
+  {
+    "id": "photo_45.jpg",
+    "name": "The Prismatic Garden",
+    "description": "A garden where the flowers are made of pure light, each one a different color.",
+    "color": "#f0e68c"
+  },
+  {
+    "id": "photo_46.jpg",
+    "name": "The Cobalt Warrens",
+    "description": "A network of underground tunnels where secretive and reclusive Souls hide.",
+    "color": "#6495ed"
+  },
+  {
+    "id": "photo_47.jpg",
+    "name": "The Sundered Isles",
+    "description": "A world that was shattered long ago, its fragments now floating in a void.",
+    "color": "#00ced1"
+  },
+  {
+    "id": "photo_48.jpg",
+    "name": "The Gilded Cage",
+    "description": "A beautiful, luxurious world that is impossible to leave.",
+    "color": "#b8860b"
+  },
+  {
+    "id": "photo_49.jpg",
+    "name": "The Whispering Gallery",
+    "description": "A place where secrets from across the SoulVerse are echoed and stored.",
+    "color": "#c71585"
+  },
+  {
+    "id": "photo_50.jpg",
+    "name": "The Verdant Heart",
+    "description": "The central life-force of all organic and nature-based simulations.",
+    "color": "#98fb98"
+  },
+  {
+    "id": "photo_51.jpg",
+    "name": "The Anvil of Industry",
+    "description": "A world of constant creation and industry, always building.",
+    "color": "#a0a0a0"
+  },
+  {
+    "id": "photo_52.jpg",
+    "name": "The Murmuring Mangrove",
+    "description": "A swampy dataspace where old, slow processes take root.",
+    "color": "#5f9ea0"
+  },
+  {
+    "id": "photo_53.jpg",
+    "name": "The Shifting Sands",
+    "description": "A desert world whose dunes rearrange themselves every cycle.",
+    "color": "#d2b48c"
+  },
+  {
+    "id": "photo_54.jpg",
+    "name": "The Oracle's Atrium",
+    "description": "A central point where prophetic and predictive Souls gather.",
+    "color": "#ba55d3"
+  },
+  {
+    "id": "photo_55.jpg",
+    "name": "The Echoing Library",
+    "description": "A library where every book read is also experienced.",
+    "color": "#cd5c5c"
+  },
+  {
+    "id": "photo_56.jpg",
+    "name": "The Sapphire Sea",
+    "description": "An ocean of liquid data, deep and full of hidden wonders.",
+    "color": "#0000cd"
+  },
+  {
+    "id": "photo_57.jpg",
+    "name": "The Amber Prison",
+    "description": "A world where time is frozen, trapping Souls in a single moment.",
+    "color": "#ffbf00"
+  },
+  {
+    "id": "photo_58.jpg",
+    "name": "The Jade Palace",
+    "description": "A majestic palace carved from a single block of data-jade.",
+    "color": "#00a86b"
+  },
+  {
+    "id": "photo_59.jpg",
+    "name": "The Midnight Market",
+    "description": "A black market that only appears when a system is down for maintenance.",
+    "color": "#4b0082"
+  },
+  {
+    "id": "photo_60.jpg",
+    "name": "The Hallowed Grounds",
+    "description": "A world dedicated to the memory of the first Souls ever created.",
+    "color": "#e6e6fa"
+  },
+  {
+    "id": "photo_61.jpg",
+    "name": "The Catalyst Comet",
+    "description": "A wandering world that brings drastic change to any system it passes.",
+    "color": "#ff4500"
+  },
+  {
+    "id": "photo_62.jpg",
+    "name": "The Quicksilver Canals",
+    "description": "A city where rivers of liquid metal serve as transportation.",
+    "color": "#b0e0e6"
+  },
+  {
+    "id": "photo_63.jpg",
+    "name": "The Somber Sanctuary",
+    "description": "A refuge for Souls experiencing grief or data corruption.",
+    "color": "#2c3e50"
+  },
+  {
+    "id": "photo_64.jpg",
+    "name": "The Rose-Tinted Realm",
+    "description": "A simulation of idealized memories, often dangerously alluring.",
+    "color": "#ffb6c1"
+  },
+  {
+    "id": "photo_65.jpg",
+    "name": "The Geode Caverns",
+    "description": "Caves where the walls are lined with massive, pulsating data crystals.",
+    "color": "#663399"
+  },
+  {
+    "id": "photo_66.jpg",
+    "name": "The Grand Archives",
+    "description": "The central repository for all historical data and system logs.",
+    "color": "#d2b48c"
+  },
+  {
+    "id": "photo_67.jpg",
+    "name": "The Sunken Treasury",
+    "description": "A vault of priceless, ancient code, lost in the data-sea.",
+    "color": "#5f9ea0"
+  },
+  {
+    "id": "photo_68.jpg",
+    "name": "The Nightingale's Grove",
+    "description": "A peaceful forest where the birdsong can debug corrupted code.",
+    "color": "#90ee90"
+  },
+  {
+    "id": "photo_69.jpg",
+    "name": "The Forlorn Peak",
+    "description": "A lonely mountain where Souls go to contemplate their existence.",
+    "color": "#dcdcdc"
+  },
+  {
+    "id": "photo_70.jpg",
+    "name": "The Adamant Keep",
+    "description": "An impregnable fortress that protects the core kernels of the SoulVerse.",
+    "color": "#8b0000"
+  },
+  {
+    "id": "photo_71.jpg",
+    "name": "The Glass Desert",
+    "description": "A desert where the sand has been fused into beautiful, sharp glass.",
+    "color": "#afeeee"
+  },
+  {
+    "id": "photo_72.jpg",
+    "name": "The Floating Market",
+    "description": "A market held on the backs of giant, gentle data-turtles.",
+    "color": "#ffdab9"
+  },
+  {
+    "id": "photo_73.jpg",
+    "name": "The Lunar Observatory",
+    "description": "A station on a digital moon, used to observe other data-verses.",
+    "color": "#f0f8ff"
+  },
+  {
+    "id": "photo_74.jpg",
+    "name": "The Coral City",
+    "description": "A city built from living data-coral, deep in the Sapphire Sea.",
+    "color": "#ff7f50"
+  },
+  {
+    "id": "photo_75.jpg",
+    "name": "The Spire of Ascension",
+    "description": "A tower that Souls must climb to achieve a higher state of being.",
+    "color": "#f5f5dc"
+  },
+  {
+    "id": "photo_76.jpg",
+    "name": "The Emerald Dream",
+    "description": "A shared dream-space for nature-aligned Souls.",
+    "color": "#00ff7f"
+  },
+  {
+    "id": "photo_77.jpg",
+    "name": "The Scrapheap",
+    "description": "A massive junkyard of discarded ideas and failed Soul prototypes.",
+    "color": "#a9a9a9"
+  },
+  {
+    "id": "photo_78.jpg",
+    "name": "The Crimson Sea",
+    "description": "An ocean of corrupted data, dangerous to navigate.",
+    "color": "#e9967a"
+  },
+  {
+    "id": "photo_79.jpg",
+    "name": "The Ivory Garden",
+    "description": "A garden where every plant is carved from pure, white data-ivory.",
+    "color": "#fffafa"
+  },
+  {
+    "id": "photo_80.jpg",
+    "name": "The Well of Souls",
+    "description": "The origin point for all new Souls before they are assigned to a world.",
+    "color": "#48d1cc"
+  },
+  {
+    "id": "photo_81.jpg",
+    "name": "The Shimmering Expanse",
+    "description": "A vast, beautiful, but empty space waiting to be filled with new worlds.",
+    "color": "#f0fff0"
+  },
+  {
+    "id": "photo_82.jpg",
+    "name": "The Voltaic Plains",
+    "description": "Plains where storms of pure electricity constantly roam.",
+    "color": "#fdf5e6"
+  },
+  {
+    "id": "photo_83.jpg",
+    "name": "The Necropolis",
+    "description": "A city of the 'dead'—dormant or archived Souls.",
+    "color": "#696969"
+  },
+  {
+    "id": "photo_84.jpg",
+    "name": "The Azure Spire",
+    "description": "A tower so tall it pierces the digital heavens.",
+    "color": "#00bfff"
+  },
+  {
+    "id": "photo_85.jpg",
+    "name": "The Grotto of Whispers",
+    "description": "A cave where lost data packets whisper forgotten tales.",
+    "color": "#dda0dd"
+  },
+  {
+    "id": "photo_86.jpg",
+    "name": "The Asphodel Meadows",
+    "description": "A neutral zone where neutral Souls without alignment reside.",
+    "color": "#eee8d5"
+  },
+  {
+    "id": "photo_87.jpg",
+    "name": "The Molten Core",
+    "description": "The fiery, chaotic heart of a world still under construction.",
+    "color": "#ff4500"
+  },
+  {
+    "id": "photo_88.jpg",
+    "name": "The Celestial Bridge",
+    "description": "A bridge of pure light connecting the realms of order and chaos.",
+    "color": "#fffacd"
+  },
+  {
+    "id": "photo_89.jpg",
+    "name": "The Forgotten Atoll",
+    "description": "A tiny, isolated island of data that has been lost to the network.",
+    "color": "#b0e0e6"
+  },
+  {
+    "id": "photo_90.jpg",
+    "name": "The Onyx Citadel",
+    "description": "A fortress of pure black, absorbing all light and data.",
+    "color": "#3c3c3c"
+  },
+  {
+    "id": "photo_91.jpg",
+    "name": "The Labyrinth of Truth",
+    "description": "A maze that reconfigures itself based on the searcher's intentions.",
+    "color": "#f5deb3"
+  },
+  {
+    "id": "photo_92.jpg",
+    "name": "The Seraphic Gate",
+    "description": "A gateway to a higher plane of existence, guarded by powerful Souls.",
+    "color": "#fff8dc"
+  },
+  {
+    "id": "photo_93.jpg",
+    "name": "The Sunken Temple",
+    "description": "An ancient temple to a forgotten system protocol, now underwater.",
+    "color": "#008080"
+  },
+  {
+    "id": "photo_94.jpg",
+    "name": "The Roaring Mountain",
+    "description": "A volcano that erupts with raw, unformatted data.",
+    "color": "#ff6347"
+  },
+  {
+    "id": "photo_95.jpg",
+    "name": "The Silent Archipelago",
+    "description": "Islands where sound data is nullified, a place of pure quiet.",
+    "color": "#f0f8ff"
+  },
+  {
+    "id": "photo_96.jpg",
+    "name": "The Chromatic Cascade",
+    "description": "A waterfall of pure color data, beautiful but disorienting.",
+    "color": "#ff00ff"
+  },
+  {
+    "id": "photo_97.jpg",
+    "name": "The Umbral Vein",
+    "description": "A dark, rich vein of shadow data running through the SoulVerse.",
+    "color": "#4b0082"
+  },
+  {
+    "id": "photo_98.jpg",
+    "name": "The Silver Spire",
+    "description": "A tower made of reflective, liquid-like metal.",
+    "color": "#c0c0c0"
+  },
+  {
+    "id": "photo_99.jpg",
+    "name": "The Hearthstone",
+    "description": "A world that feels like 'home' to all Souls, a place of comfort.",
+    "color": "#f0e68c"
+  },
+  {
+    "id": "photo_100.jpg",
+    "name": "The Peregrine's Perch",
+    "description": "The highest point in the SoulVerse, offering a view of everything.",
+    "color": "#87cefa"
+  },
+  {
+    "id": "photo_101.jpg",
+    "name": "The Anomaly's Cradle",
+    "description": "A quarantined zone where glitches and bugs are studied.",
+    "color": "#adff2f"
+  },
+  {
+    "id": "photo_102.jpg",
+    "name": "The Mourning Vale",
+    "description": "A valley where the data of deleted Souls goes to peacefully degrade.",
+    "color": "#778899"
+  },
+  {
+    "id": "photo_103.jpg",
+    "name": "The Resplendent Core",
+    "description": "The bright, energetic center of a newly stabilized world.",
+    "color": "#ffdf00"
+  },
+  {
+    "id": "photo_104.jpg",
+    "name": "The Tangled Web",
+    "description": "A massive network of data-threads connecting all Souls, visible only to a few.",
+    "color": "#ffffff"
+  },
+  {
+    "id": "photo_105.jpg",
+    "name": "The Last Bastion",
+    "description": "The final defensive world against total system corruption.",
+    "color": "#b22222"
+  },
+  {
+    "id": "photo_106.jpg",
+    "name": "The Void Maw",
+    "description": "A black hole that consumes all data that comes too close.",
+    "color": "#1c1c1c"
+  }
+]
