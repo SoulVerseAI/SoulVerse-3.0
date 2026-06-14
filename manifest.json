@@ -1,0 +1,22 @@
+{
+  "short_name": "SoulVerse",
+  "name": "SoulVerse",
+  "description": "SoulVerse is an interactive AI world where you create and chat with unique, personalized characters called Souls. Each Soul has its own personality, backstory, and profile. It’s a space where technology meets emotion — turning every conversation into a meaningful connection.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0D0517",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0D0517"
+}

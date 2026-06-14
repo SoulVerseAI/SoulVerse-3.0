@@ -1,0 +1,143 @@
+/* Base glassmorphism style */
+.glass-block {
+    /* Transparent background */
+    background: rgba(255, 255, 255, 0.1);
+    
+    /* Frosted glass effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    backdrop-filter: blur(10px);
+    
+    /* Subtle border to catch light */
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    
+    /* Soft shadow for depth */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Applying the glassmorphism effect to chat bubbles */
+.bg-soul-message {
+    background: rgba(41, 37, 36, 0.5); /* stone-800 with transparency */
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+.bg-user-message {
+    background: rgba(45, 48, 69, 0.5); /* Custom darker blue with transparency */
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Styles for SoulVerse Feature */
+.sidebarButton {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 50; /* Needs to be above the canvas but below the modal header */
+  font-size: 24px;
+  opacity: 0.7;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebarButton:hover {
+    opacity: 1;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.sidebar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 300px;
+  height: 100%;
+  background-color: #1a1a1a;
+  color: #f0f0f0;
+  padding-top: 50px;
+  box-shadow: -3px 0 8px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(100%);
+}
+.sidebar.open {
+  transform: translateX(0);
+}
+.sidebar .closeButton {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  color: #aaa;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 1;
+  padding: 5px;
+}
+.sidebar .closeButton:hover {
+  color: #fff;
+}
+.sidebar h2 {
+  margin: 0;
+  margin-bottom: 15px;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #fff;
+  border-bottom: 1px solid #444;
+  padding-bottom: 10px;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-grow: 1;
+}
+.sidebar ul li {
+  padding: 8px 15px;
+  font-size: 0.85em;
+  line-height: 1.4;
+  color: #ccc;
+  border-bottom: 1px solid #303030;
+  display: flex;
+  align-items: center;
+}
+.sidebar ul li p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.sidebar ul li:hover {
+  background-color: #2a2a2a;
+  cursor: pointer;
+}
+.sidebar ul li .thumbnail {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 10px;
+  border-radius: 3px;
+  background-color: #2a2a2a;
+}
+.sidebar ul li:last-child {
+  border-bottom: none;
+}
+
+.iconButton .icon {
+    font-family: "Material Symbols Outlined";
+    font-weight: 300;
+    line-height: 1;
+}

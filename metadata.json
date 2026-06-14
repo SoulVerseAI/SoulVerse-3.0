@@ -1,0 +1,8 @@
+{
+  "name": "Soulverse 2.0 Original",
+  "description": "SoulVerse is an interactive AI world where you create and chat with unique, personalized characters called Souls. Each Soul has its own personality, backstory, and profile. It’s a space where technology meets emotion — turning every conversation into a meaningful connection.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
